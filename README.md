@@ -5,10 +5,10 @@ It also accepts NMEA sentances for Boat Speed and Wind Data and sends over Seata
 
 You need a 4 button remote.
 
-A = Port 10Degress
-B = Starboard 10Degrees
-C = Port 1 Degree
-D = Starboard 1 Degree
+A = Port 10Degress<br>
+B = Starboard 10Degrees<br>
+C = Port 1 Degree<br>
+D = Starboard 1 Degree<br>
 
 A+B = Auto Mode
 C+D = Standby Mode
