@@ -9,12 +9,11 @@ A = Port 10Degress<br>
 B = Starboard 10Degrees<br>
 C = Port 1 Degree<br>
 D = Starboard 1 Degree<br>
-
-A+B = Auto Mode
-C+D = Standby Mode
-A+C = Tack Port
-B+D = Tack Starboard
-A+D = Wind Trim Mode
-C+B = Wind Trim Mode
+A+B = Auto Mode<br>
+C+D = Standby Mode<br>
+A+C = Tack Port<br>
+B+D = Tack Starboard<br>
+A+D = Wind Trim Mode<br>
+C+B = Wind Trim Mode<br>
 
 More details to follow.
